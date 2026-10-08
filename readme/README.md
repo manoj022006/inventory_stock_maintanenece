@@ -126,7 +126,6 @@ Low Stock Items =
 CALCULATE ( COUNTROWS ( Inventory ), Inventory[Stock Status] = "Low Stock" )
 ```
 
-> Replace these with the exact measures from your report if they differ.
 
 ---
 
